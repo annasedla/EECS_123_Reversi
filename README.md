@@ -1,2 +1,2 @@
-# hello-world
-Trial
+# Reversi
+A simple Reversi game programmed in Java.
